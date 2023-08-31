@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Final_Project_For_OOP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Final_Project_For_OOP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Final_Project_For_OOP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/include" />
+			<Add directory="C:/Program Files (x86)/Dev-Cpp/MinGW64/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32" />
+			<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libmysql.a" />
+			<Add library="C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/libmysql.a" />
+			<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libbgi.a" />
+		</Linker>
+		<Unit filename="include/Customer.h" />
+		<Unit filename="include/Database.h" />
+		<Unit filename="include/DeliveryPerson.h" />
+		<Unit filename="include/Foodview.h" />
+		<Unit filename="include/Manager.h" />
+		<Unit filename="include/Person.h" />
+		<Unit filename="include/Restaurant.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Customer.cpp" />
+		<Unit filename="src/Database.cpp" />
+		<Unit filename="src/DeliveryPerson.cpp" />
+		<Unit filename="src/Foodview.cpp" />
+		<Unit filename="src/Manager.cpp" />
+		<Unit filename="src/Person.cpp" />
+		<Unit filename="src/Restaurant.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,500 @@
+# depslib dependency file v1.0
+1599280271 source:c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	"Restaurant.h"
+	"Customer.h"
+	"Manager.h"
+	<graphics.h>
+	"Database.h"
+	"Foodview.h"
+	"Person.h"
+	"DeliveryPerson.h"
+
+1599261698 source:c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\src\restaurant.cpp
+	"Restaurant.h"
+
+1596797174 c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\include\restaurant.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	"Database.h"
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\conio.h
+	<_mingw.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1476095133 c:\program files (x86)\codeblocks\mingw\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1476095146 c:\program files (x86)\codeblocks\mingw\include\mysql_com.h
+
+1476095172 c:\program files (x86)\codeblocks\mingw\include\mysql_time.h
+
+1476095183 c:\program files (x86)\codeblocks\mingw\include\mysql_version.h
+	<custom_conf.h>
+
+1476095323 c:\program files (x86)\codeblocks\mingw\include\typelib.h
+
+1476095368 c:\program files (x86)\codeblocks\mingw\include\my_list.h
+
+1476095377 c:\program files (x86)\codeblocks\mingw\include\my_alloc.h
+
+1599278648 source:c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\src\customer.cpp
+	"Customer.h"
+
+1599239881 c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\include\customer.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	"Person.h"
+	"Foodview.h"
+
+1599277724 source:c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\src\manager.cpp
+	"Manager.h"
+
+1599262670 c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\include\manager.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	<fstream>
+	"Person.h"
+	"Foodview.h"
+
+1595706326 c:\program files (x86)\codeblocks\mingw\include\qos.h
+	<winapifamily.h>
+
+1595706819 c:\program files (x86)\codeblocks\mingw\include\winapifamily.h
+
+1599364388 c:\program files (x86)\codeblocks\mingw\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\limits.h
+	<_mingw.h>
+
+1596745995 source:c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\foodview.cpp
+	"Foodview.h"
+
+1596745995 c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\foodview.h
+
+1599218236 c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\include\database.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+
+1599278796 source:c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\src\database.cpp
+	"Database.h"
+
+1599045935 c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\include\foodview.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	"Database.h"
+	"Restaurant.h"
+
+1599239691 source:c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\src\foodview.cpp
+	"Foodview.h"
+
+1599262342 source:c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\src\person.cpp
+	"Person.h"
+
+1599275072 c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\include\person.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	"Database.h"
+	"Foodview.h"
+
+1596768738 c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\person.h
+
+1598871204 source:c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\src\deliveryperson.cpp
+	"DeliveryPerson.h"
+
+1598784957 c:\users\hp\desktop\march 20\faisal sir lab task\project\final_project_for_oop\include\deliveryperson.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	"Person.h"
+	"Foodview.h"
+
+1599278650 source:e:\final_project_for_oop\src\customer.cpp
+	"Customer.h"
+
+1599239882 e:\final_project_for_oop\include\customer.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	"Person.h"
+	"Foodview.h"
+
+1599275074 e:\final_project_for_oop\include\person.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	"Database.h"
+	"Foodview.h"
+
+1599371465 e:\final_project_for_oop\include\database.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+
+1599045936 e:\final_project_for_oop\include\foodview.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	"Database.h"
+	"Restaurant.h"
+
+1596797176 e:\final_project_for_oop\include\restaurant.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	"Database.h"
+
+1599278798 source:e:\final_project_for_oop\src\database.cpp
+	"Database.h"
+
+1599239692 source:e:\final_project_for_oop\src\foodview.cpp
+	"Foodview.h"
+
+1599277726 source:e:\final_project_for_oop\src\manager.cpp
+	"Manager.h"
+
+1599262672 e:\final_project_for_oop\include\manager.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mysql.h>
+	<graphics.h>
+	<fstream>
+	"Person.h"
+	"Foodview.h"
+
+1599262344 source:e:\final_project_for_oop\src\person.cpp
+	"Person.h"
+
+1599261700 source:e:\final_project_for_oop\src\restaurant.cpp
+	"Restaurant.h"
+
+1476096933 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1476096972 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1476096983 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1476097168 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1476097177 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
+1599295390 source:e:\final_project_for_oop\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	"Restaurant.h"
+	"Customer.h"
+	"Manager.h"
+	<graphics.h>
+	"Database.h"
+	"Foodview.h"
+	"Person.h"
+
